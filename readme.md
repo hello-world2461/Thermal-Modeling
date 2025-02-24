@@ -1,1 +1,1 @@
-Quick script made to model stuff in 1D, 2D. Might update for it to work on 3D modeling as well.
+Quick script made to model heat in 1D, 2D. Might update for it to work on 3D modeling as well.
